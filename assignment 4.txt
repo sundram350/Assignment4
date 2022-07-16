@@ -1,0 +1,106 @@
+Ans=1
+int main()
+{
+    int i=1;
+    while(i<=5)
+    {
+        printf("MySirG ");
+        i++;
+    }
+    return 0;
+}
+
+Ans=2
+int main()
+{
+    int i=1;
+    while(i<=10)
+        printf("%d ",i++);
+    
+    return 0;
+}
+
+Ans=3
+int main()
+{
+    int i=10;
+    while(i>=1)
+        printf("%d ",i--);
+    return 0;
+}
+
+Ans=4
+int main()
+{
+    int i=1;
+    while(i<=20){
+        printf("%d ",i);
+    i=i+2;
+    }
+    return 0;
+}
+
+Ans=5
+int main()
+{
+    int i=19;
+    while(i>=1){
+        printf("%d ",i);
+    i=i-2;
+    }
+    return 0;
+}
+
+Ans=6
+int main()
+{
+    int i=2;
+    while(i<=20){
+        printf("%d ",i);
+    i=i+2;
+    }
+    return 0;
+}
+
+Ans=7
+int main()
+{
+    int i=20;
+    while(i>=2){
+        printf("%d ",i);
+    i=i-2;
+    }
+    return 0;
+}
+
+Ans=8
+int main()
+{
+    int i=1;
+    while(i<=10){
+        printf("%d ",i*i);
+        i++;
+    }
+    return 0;
+}
+Ans=9
+int main()
+{
+    int i=1;
+    while(i<=10){
+        printf("%d ",i*i*i);
+        i++;
+    }
+    return 0;
+}
+
+Ans=10
+int main()
+{
+    int i=1;
+    while(i<=10){
+        printf("%d ",i*5);
+        i++;
+    }
+    return 0;
+}
